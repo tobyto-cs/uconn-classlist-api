@@ -1,0 +1,17 @@
+{
+  "name": "uconn-classlist-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Jeremy Goode",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "xlsx": "^0.18.5",
+    "xlsx-to-json-lc": "^0.5.0"
+  }
+}
